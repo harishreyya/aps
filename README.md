@@ -16,3 +16,33 @@ It focuses heavily on:
 - Next.js (App Router)
 - React
 - CSS
+
+##  Installation & Setup
+
+### 1️ Clone the Repository
+
+```bash
+git clone https://github.com/harishreyya/aps.git
+cd private-knowledge-workspace
+```
+
+
+### 2️ Install Dependencies
+
+```bash
+npm install
+```
+
+### 4️ Run Development Server
+
+```bash
+npm run dev
+```
+
+### 5 App will run on:
+
+```
+http://localhost:3000
+```
+
+---
