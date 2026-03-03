@@ -1,4 +1,4 @@
-## APS – Scan Dashboard (Next.js)
+# APS – Scan Dashboard (Next.js)
 
 A modern cybersecurity scanning interface built with Next.js (App Router).
 This project simulates a real-world security scanning platform with authentication, dashboard analytics, and live scan monitoring.
@@ -10,3 +10,9 @@ It focuses heavily on:
 - Pixel-accurate design implementation
 
 - Light/Dark theme support
+---
+## 🛠 Tech Stack
+
+- Next.js (App Router)
+- React
+- CSS
